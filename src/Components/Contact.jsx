@@ -20,7 +20,7 @@ const Contact = () => {
               className="mb-5"
             >
               <p>
-                <lable>Name:</lable>
+                <label>Name:</label>
                 <input
                   type="text"
                   className="form-control"
@@ -28,7 +28,7 @@ const Contact = () => {
                 />
               </p>
               <p>
-                <lable>Email:</lable>
+                <label>Email:</label>
                 <input
                   type="email"
                   className="form-control"
@@ -36,7 +36,7 @@ const Contact = () => {
                 />
               </p>
               <p>
-                <lable>Mobile:</lable>
+                <label>Mobile:</label>
                 <input
                   type="number"
                   className="form-control"
