@@ -22,8 +22,8 @@ const About = () => {
         </p>
       </div>
       <div className="text-center p-3">
-        <a href="#" target="_blank"><i style={iconSize} className="fa fa-github "></i></a>
-        <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><i style={iconSize} className="fa fa-linkedin-square"></i></a>
+        <a href="https://github.com/sryuvaraj?tab=repositories" target="_blank"><i style={iconSize} className="fa fa-github "></i></a>
+        <a href="https://www.linkedin.com/in/yuvaraj-s-r/?trk=public-profile-join-page" target="_blank"><i style={iconSize} className="fa fa-linkedin-square"></i></a>
       </div>
     </div>
     </>
