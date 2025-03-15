@@ -14,8 +14,8 @@ const Home = () => {
   return (
     <>
       <div>
-        <div className="text-white mx-5"  style={{ display: "flex", justifyContent: "end" }}>
-          <h4 className="mx-5 mt-4">
+        <div className="text-white mx-5 d-flex flex-column flex-lg-row justify-content-end align-items-end">
+          <h4 className="mx-lg-5 mt-4">
             <i
               class="fa fa-envelope"
               style={{ fontSize: "20px", color: "white" }}
