@@ -9,6 +9,37 @@ const Experience = () => {
           Experience
         </h1>
         <ul className="text-white">
+        <li style={{listStyle:"none"}}>
+            <h4>
+            Frontend Developer
+            <br />
+            Wasserstoff Technologies
+            <br />
+            Apr.2024 - Present
+            </h4>
+          </li>
+          <ul>
+            <li>
+            Developed two web applications using React, Next.js, JavaScript, Tailwind CSS, HTML5, CSS3
+            </li>
+            <li>
+            Implemented responsive designs and ensured cross-browser compatibility for optimal user experience across various devices.
+            </li>
+            <li>
+            Collaborated with designers and backend developers to integrate APIs and deliver seamless
+            functionality
+            </li>
+            <li>
+            Utilized version control systems like Git for collaborative development and efficient code
+            management
+            </li>
+            <li>Done a full web application UI/UX with all device responsive
+
+            </li>
+            <li>
+            Working on sdk for dynamic ui, that user can design own frontend design
+            </li>
+          </ul><br/>
           <li style={{listStyle:"none"}}>
             <h4>
             Junior Developer
@@ -47,7 +78,7 @@ const Experience = () => {
               handling by working closely with the QA team
             </li>
           </ul><br/>  
-          <li style={{listStyle:"none"}}>
+          {/* <li style={{listStyle:"none"}}>
             <h4>
             Web Designer
             <br />
@@ -69,7 +100,7 @@ const Experience = () => {
               Researched current trends in web design and implemented in
               projects
             </li>
-          </ul>
+          </ul> */}
         </ul>
       </div>
       </div>

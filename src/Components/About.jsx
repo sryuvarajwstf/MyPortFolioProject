@@ -15,10 +15,10 @@ const About = () => {
         style={{ display: "flex", justifyContent: "center" }}
       >
         <p className="" style={{ width: "550px",color:"rgb(20,23,55)" }}>
-          Experienced Software developer in .Net as a Junior Developer and completed training in React
-          JS, adept at crafting seamless user interfaces with a focus on
-          performance and responsiveness. Passionate about leveraging
-          cutting-edge technologies to deliver engaging web applications.
+        2+years experienced and result-oriented Frontend Developer with proven experience at wasserstoff
+is helps to maintain a better code base for reusability. Good in UI implement, Passionate about
+learning new technologies and development with a desire to apply skills on a larger development
+team.
         </p>
       </div>
       <div className="text-center p-3">

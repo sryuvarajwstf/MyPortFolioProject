@@ -43,7 +43,7 @@ const Home = () => {
         </div>
         <h1 className="text-center">Helloo.. I'm Yuvaraj S R</h1>
         <h2 className="text-center p-2">
-          A Software Developer and Web Designer
+          A Frontend Developer and Web Designer
         </h2>
       </div>
     </>
