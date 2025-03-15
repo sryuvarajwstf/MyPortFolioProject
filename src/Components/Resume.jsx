@@ -1,6 +1,6 @@
 import React from 'react';
-import resume from '../Images/Yuvaraj.pdf'
-import cvImage from '../Images/cvImage.png'
+import resume from '../Images/YuvarajSR.pdf'
+import cvImage from '../Images/resumeImg.png'
 const Resume = () => {
   return (
     <>
@@ -8,7 +8,7 @@ const Resume = () => {
         <div>
         <h1 className='text-center'>Resume (Click to Download)</h1>
       <div>
-      <a href={resume} download="Resume"><img width={400} src={cvImage} /></a>
+      <a href={resume} download="Resume"><img style={{borderColor:"black"}} className='border' width={400} src={cvImage} /></a>
         </div>
         </div>
       </div>

@@ -41,7 +41,7 @@ const Nav = () => {
               >
                 <span className="navbar-toggler-icon"></span>
               </button>
-              <div className="collapse navbar-collapse" id="navbarNav">
+              <div className="visually-hidden lg:visible collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                   <li className="nav-item">
                     <a style={items} className="nav-link " href="#">
